@@ -1,16 +1,7 @@
 # Angular Jalali Date Picker
 This is a configurable jalali (persian, khorshidi, shamsi) date-picker build for Angular 2 applications and uses [jalali-moment](https://github.com/fingerpich/moment-jalaali) as its dependency.
-[DEMO](https://fingerpich.github.io/jalali-angular-datepicker/)
 
 Read this in other languages: [فارسی](./README.fa.md)
-
-[![Build Status](https://travis-ci.org/fingerpich/jalali-angular-datepicker.svg?branch=jalali-master)](https://travis-ci.org/fingerpich/jalali-angular-datepicker) 
-[![npm version](https://badge.fury.io/js/dobarg-jalali-date-picker.svg)](https://badge.fury.io/js/dobarg-jalali-date-picker)
-[![Package Quality](http://npm.packagequality.com/shield/dobarg-jalali-date-picker.svg)](http://packagequality.com/#?package=dobarg-jalali-date-picker)
-[![dependency Quality](https://david-dm.org/fingerpich/jalali-angular-datepicker.svg)](https://david-dm.org/fingerpich/jalali-angular-datepicker)
-[![dev dependency Quality](https://david-dm.org/fingerpich/jalali-angular-datepicker/dev-status.svg)](https://david-dm.org/fingerpich/jalali-angular-datepicker?type=dev)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/72a073fa893f4f0b823f41106c9e4f56)](https://www.codacy.com/app/zarei-bs/jalali-angular-datepicker?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=fingerpich/jalali-angular-datepicker&amp;utm_campaign=Badge_Grade)
-[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/72a073fa893f4f0b823f41106c9e4f56)](https://www.codacy.com/app/zarei-bs/jalali-angular-datepicker?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=fingerpich/jalali-angular-datepicker&amp;utm_campaign=Badge_Coverage)
 
 ## Screenshots
 
